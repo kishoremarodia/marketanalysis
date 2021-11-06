@@ -122,7 +122,7 @@ with st.sidebar:
 # Write the Kind of Analysis being done as header
 st.header(selected_analysis)
 
-# Call the selected analysis
+# Call the selected analysis and
 analysis_dict[selected_analysis]()
         
     
