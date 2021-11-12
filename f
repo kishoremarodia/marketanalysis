@@ -1,0 +1,71 @@
+[33mcommit ae45c081faf90c77c8fb3429770079edb2ffe0d8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: kishoremarodia <kishore.marodia@gmail.com>
+Date:   Fri Nov 12 16:38:39 2021 +0530
+
+    main 1
+
+[33mcommit e6b1d6dbe19e99465612561b2681102087995d9c[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: kishoremarodia <kishore.marodia@gmail.com>
+Date:   Sat Nov 6 20:46:34 2021 +0530
+
+    new changes
+
+[33mcommit d7fffb14cb2056164a8595dede53b911ec2c1e80[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: Marodia <kmarodia@deloitte.com>
+Date:   Sat Nov 6 16:51:27 2021 +0530
+
+    new changes
+
+[33mcommit 88e4db0b4ea67c74db92b1ec09a53fcdf46ae364[m
+Author: Marodia <kmarodia@deloitte.com>
+Date:   Sat Nov 6 16:43:39 2021 +0530
+
+    new changes
+
+[33mcommit ed01e8f35d9e1b15c54ecc589b08299a56a29cc9[m
+Author: Marodia <kmarodia@deloitte.com>
+Date:   Sat Nov 6 15:48:18 2021 +0530
+
+    adjusted procfile
+
+[33mcommit 5810dacd0fbd2d0029f5824dd4004b141bfc499e[m
+Author: Marodia <kmarodia@deloitte.com>
+Date:   Sat Nov 6 15:44:27 2021 +0530
+
+    added back procfile
+
+[33mcommit c9c080937c42497d4fc6203c6664b0ca75c9b7c2[m
+Author: Marodia <kmarodia@deloitte.com>
+Date:   Sat Nov 6 15:42:14 2021 +0530
+
+    removed procfile
+
+[33mcommit a7c619bea7961b56796e6de8f84eb8cabe240fa8[m
+Author: Marodia <kmarodia@deloitte.com>
+Date:   Sat Nov 6 15:37:58 2021 +0530
+
+    init6 commit
+
+[33mcommit 070fe74a56163328970d17117e649497fb999add[m
+Author: Marodia <kmarodia@deloitte.com>
+Date:   Sat Nov 6 15:34:05 2021 +0530
+
+    5th comit
+
+[33mcommit da700bce140898c13693ca02bfcecf3b71de768f[m
+Author: Marodia <kmarodia@deloitte.com>
+Date:   Sat Nov 6 15:29:44 2021 +0530
+
+    3rd commit
+
+[33mcommit 79427f9b8765986380900a7243f2c430ccb5a240[m
+Author: Marodia <kmarodia@deloitte.com>
+Date:   Sat Nov 6 15:19:01 2021 +0530
+
+    ini2 commit
+
+[33mcommit 58efcedbe63b5d7650a81fd4f4f6243c1fdbfe6c[m
+Author: Marodia <kmarodia@deloitte.com>
+Date:   Sat Nov 6 15:09:05 2021 +0530
+
+    initial commit
